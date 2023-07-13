@@ -1,5 +1,7 @@
 # DIL Git and GitHub training
 
+Luiza the best teacher  
+
 This repository contains the files used for internal training on Git and GitHub
 
 ## Intro to Git
