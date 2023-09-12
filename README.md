@@ -3,6 +3,7 @@
 Self taught
 Luiza the best teacher  
 
+Peris 
 This repository contains the files used for internal training on Git and GitHub
 
 ## Just messing around
