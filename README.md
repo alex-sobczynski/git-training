@@ -1,5 +1,5 @@
 # DIL Git and GitHub training
-# Learining 
+# Learning 
 Self taught
 Luiza the best teacher  
 
